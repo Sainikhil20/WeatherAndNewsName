@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Weather News Aggregator",
+    "slug": "weather-news-aggregator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.weathernews.aggregator"
+    },
+    "web": {
+    },
+    "plugins": [
+      "expo-location"
+    ]
+  }
+}
